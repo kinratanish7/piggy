@@ -4,7 +4,7 @@ const fetchData = () => {
   let data = {
     "greeting": "Hey",
     "name": "Piggy🐷",
-    "greetingText": "I really like your name, not that one, I mean Piggy <3",
+    "greetingText": "I really like your name <3",
     "wishText": "May the js.prototypes always be with you! ;)",
     "imagePath": "img/lydia2.png",
     "text1": "It's not just your birthday. it's your 18th birthday!!!",
