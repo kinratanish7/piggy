@@ -10,18 +10,18 @@ const fetchData = () => {
     "text1": "It's not just your birthday. \n You're 18 now💋",
     "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
     "sendButtonLabel": "Send",
-    "text2": "That's what I was going to do when we fought",
+    "text2": "That's what I was going to do when we had the fight",
     "text3": "But then we made up🍑",
     "text4": "I realised, I wanted to do something",
     "text4Adjective": "special",
     "text5Entry": "Because,",
-    "text5Content": "You are Special",
+    "text5Content": "You are my Whore🫣",
     "smiley": ":)",
     "bigTextPart1": "S",
     "bigTextPart2": "O",
     "wishHeading": "Happy Birthday!",
-    "outroText": "Okay, now come back and tell me if you liked it.",
-    "replayText": "Or click, if you want to watch it again.",
+    "outroText": "Always, for my beautiful baby",
+    "replayText": "Click, if you want to watch it again.",
     "outroSmiley": ":)"
   }
   dataArr = Object.keys(data);
