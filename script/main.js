@@ -6,8 +6,8 @@ const fetchData = () => {
     "name": "Piggy🐷",
     "greetingText": "I like your name, lot better than 'chi' sound 🫣",
     "wishText": "May the js.prototypes always be with you! ;)",
-    "imagePath": "img/lydia2.png",
-    "text1": "It's not just your birthday. \n You're 18 now💋",
+    "imagePath": "img/baby.PNG",
+    "text1": "It's not just your birthday. \n You're finally 18💋",
     "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
     "sendButtonLabel": "Send",
     "text2": "That's what I was going to do when we had the fight",
@@ -15,13 +15,13 @@ const fetchData = () => {
     "text4": "I realised, I wanted to do something",
     "text4Adjective": "special",
     "text5Entry": "Because,",
-    "text5Content": "You are my Whore🫣",
+    "text5Content": "You are my special whore🫣🫶🏻",
     "smiley": ":)",
     "bigTextPart1": "S",
     "bigTextPart2": "O",
     "wishHeading": "Happy Birthday!",
-    "outroText": "Always, for my beautiful baby",
-    "replayText": "Click, if you want to watch it again.",
+    "outroText": "Enjoy, my beautiful baby, see you in 6 days⏳",
+    "replayText": "Until then watch this, soon my beautiful baby🌠❤️",
     "outroSmiley": ":)"
   }
   dataArr = Object.keys(data);
