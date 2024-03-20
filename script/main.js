@@ -4,8 +4,8 @@ const fetchData = () => {
   let data = {
     "greeting": "Hey",
     "name": "Piggy🐷",
-    "greetingText": "I like your name, lot better than 'chi' sound 🫣",
-    "wishText": "May the js.prototypes always be with you! ;)",
+    "greetingText": "I like your name, it's a lot better than Yachi 🫣",
+    "wishText": "My good girl ;)",
     "imagePath": "img/baby.PNG",
     "text1": "It's not just your birthday. \n You're finally 18💋",
     "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
@@ -20,8 +20,8 @@ const fetchData = () => {
     "bigTextPart1": "S",
     "bigTextPart2": "O",
     "wishHeading": "Happy Birthday!",
-    "outroText": "Enjoy, my beautiful baby, see you in 6 days⏳",
-    "replayText": "Until then watch this, soon my beautiful baby🌠❤️",
+    "outroText": "Enjoy, my beautiful phuggi, see you in 6 days⏳🎈",
+    "replayText": "Until then watch this, click 🌠 to restart❤️",
     "outroSmiley": ":)"
   }
   dataArr = Object.keys(data);
@@ -88,7 +88,7 @@ const animationTimeline = () => {
       0.7,
       {
         opacity: 0,
-        y: 10
+        y: 10 
       },
       "+=2.5"
     )
@@ -238,8 +238,8 @@ const animationTimeline = () => {
       "-=2"
     )
     .from(".hat", 0.5, {
-      x: -100,
-      y: 350,
+      x: 450,
+      y: 1050,
       rotation: -180,
       opacity: 0
     })
